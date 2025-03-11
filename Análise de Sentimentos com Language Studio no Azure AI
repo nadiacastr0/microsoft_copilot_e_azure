@@ -1,0 +1,10 @@
+Eu não pude práticar em se a analise de sentimentos no Speech Studio, mas criei um passo a passo para quando eu tiver a oportunidade poder executar.
+No portal Azure
+- Criar um recurso
+- AI + Machine Learnin -> Language servise
+Ir para o portal Seech Studio 
+- language cognitive para selecionar o recurso que foi criado
+- Ir em Create new para criar um novo recurso
+- Selecionar Classify text e escolher Analyze sentimento and mine opinions
+- Configurar os prompts de idioma, texto para avaliar
+- Por fim executar a analise 
